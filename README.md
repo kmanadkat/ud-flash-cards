@@ -2,8 +2,10 @@
 Udacity Become React Developer ND
 
 
+
 ### Project Problem Statement 📜
 This App is based on the classic game of flash cards. Flash cards is used by people, generally students, to memorise things. In its physical form, people write question on one side of the card and answer on the other side of the card. Then they shuffle the cards and start the quiz. They read the question and try to answer it. After answering they turn the card to see whether the answer was correct or not and then mark the count of correct/incorrect in a sheet. Finally once all the cards are done, they see how many correct questions they answered.
+
 
 
 ### Project Features 🕹
@@ -15,6 +17,7 @@ This App is based on the classic game of flash cards. Flash cards is used by peo
 5. Add new flashcards to deck
 6. Take Quiz on flashcards
 7. Get Local Notifications
+
 
 
 ### Routes Navigation ⛳️
@@ -31,6 +34,7 @@ This App is based on the classic game of flash cards. Flash cards is used by peo
 | `QuizInfo` Last Quiz Info  | `QuizView/:deckId` Take Flashcards Quiz|
 
 
+
 ### Installation & Setup ⚙️
 
 You should have `npm`, `node` & `expo-cli` installed in your machine, to confirm type `node --version` v14.12.0(or above) & `expo -V` v3.27.14(or above) in terminal. Below are steps to setup project in your system :
@@ -40,6 +44,8 @@ You should have `npm`, `node` & `expo-cli` installed in your machine, to confirm
 3. Run `npm install` and wait for all dependencies to download + install
 4. Finally run `expo start` this will automatically launch Expo DevTools is running at `http://localhost:19002`
 5. Scan QR Code with Expo Android or iOS App & run application
+
+> Tested on : Expo Web & Android Expo App, works like charm :)
 
 
 ### Project Screnshots 📱
