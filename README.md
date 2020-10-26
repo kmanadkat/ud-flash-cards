@@ -44,20 +44,20 @@ You should have `npm`, `node` & `expo-cli` installed in your machine, to confirm
 
 ### Project Screnshots 📱
 
-<img src="./images/01-DecksView.png" />	
+<img src="./images/01-DecksView.png" width="350" />	
 
-<img src="./images/04-DeckView.png" />		
+<img src="./images/04-DeckView.png" width="350" />		
 
-<img src="./images/07-QuizView.png" />
+<img src="./images/07-QuizView.png" width="350" />
 
-<img src="./images/02-CreateDeck.png" />	
+<img src="./images/02-CreateDeck.png" width="350" />	
 
-<img src="./images/05-QuestionView.png" />	
+<img src="./images/05-QuestionView.png" width="350" />	
 
-<img src="./images/08-QuizScore.png" />
+<img src="./images/08-QuizScore.png" width="350" />
 
-<img src="./images/03-QuizInfo.png" />		
+<img src="./images/03-QuizInfo.png" width="350" />		
 
-<img src="./images/06-AddCard.png" />		
+<img src="./images/06-AddCard.png" width="350" />		
 
-<img src="./images/09-QuizAnswer.png" />
+<img src="./images/09-QuizAnswer.png" width="350" />
