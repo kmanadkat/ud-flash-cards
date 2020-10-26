@@ -1,0 +1,15 @@
+{
+  "name": "flashCards",
+  "displayName": "flashCards",
+  "expo": {
+    "name": "flashCards",
+    "slug": "flashCards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "useNextNotificationsApi": true
+    }
+  }
+}
