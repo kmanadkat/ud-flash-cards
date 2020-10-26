@@ -33,7 +33,7 @@ This App is based on the classic game of flash cards. Flash cards is used by peo
 
 ### Installation & Setup ⚙️
 
-You should have `npm`, `node` v14.12.0(or above) & `expo-cli` v3.27.14(or above) & above installed in your machine, to confirm type `node --version` & `expo -V` in terminal. Below are steps to setup project in your system :
+You should have `npm`, `node` & `expo-cli` installed in your machine, to confirm type `node --version` v14.12.0(or above) & `expo -V` v3.27.14(or above) in terminal. Below are steps to setup project in your system :
 
 1. Clone the `master` branch of this repository
 2. Open Terminal in project folder (containing `package.json` file)
@@ -44,8 +44,20 @@ You should have `npm`, `node` v14.12.0(or above) & `expo-cli` v3.27.14(or above)
 
 ### Project Screnshots 📱
 
-<img src="" />
+<img src="./images/01-DecksView.png" />	
 
+<img src="./images/04-DeckView.png" />		
 
+<img src="./images/07-QuizView.png" />
 
+<img src="./images/02-CreateDeck.png" />	
 
+<img src="./images/05-QuestionView.png" />	
+
+<img src="./images/08-QuizScore.png" />
+
+<img src="./images/03-QuizInfo.png" />		
+
+<img src="./images/06-AddCard.png" />		
+
+<img src="./images/09-QuizAnswer.png" />
